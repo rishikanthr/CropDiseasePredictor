@@ -1,0 +1,5 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+tensorflow==2.16.1   # or 2.14, match your training version
+pillow               # image decoding
+python-multipart     # enable file uploads
